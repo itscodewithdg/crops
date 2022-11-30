@@ -1,1 +1,1176 @@
-thumbnails
+{
+	"crops": [
+		[
+			{
+					"name": "Artichoke",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/artichoke.png",
+					"sci": "Cynara cardunculus var. scolymus"
+			},
+			{
+					"name": "Arugula",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/arugula.png",
+					"sci": "Eruca vesicaria ssp. sativa"
+			},
+			{
+					"name": "Asparagus",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/asparagus.png",
+					"sci": "Asparagus officinalis"
+			},
+			{
+					"name": "Aubergine",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/aubergine.png",
+					"sci": "Solanum melongena"
+			},
+			{
+					"name": "Avocado",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/avocado.png",
+					"sci": "Persea americana"
+			},
+			{
+					"name": "Bean Sprouts",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/beansprouts.png",
+					"sci": "Vigna radiata"
+			},
+			{
+					"name": "Beet Root",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/beetroot.png",
+					"sci": "Beta vulgaris subsp. vulgaris Conditiva Group"
+			},
+			{
+					"name": "Bell pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/bellpeppers.png",
+					"sci": "Capsicum annuum Group"
+			},
+			{
+					"name": "Bok Choi",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/bokchoi.png",
+					"sci": "Brassica rapa subsp. chinensis"
+			},
+			{
+					"name": "Broad Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/broadbeans.png",
+					"sci": "Vicia faba"
+			},
+			{
+					"name": "Broccoli",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/broccoli.png",
+					"sci": "Brassica oleracea var. italica"
+			},
+			{
+					"name": "Brussels Sprout",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/brusselssprouts.png",
+					"sci": "Brassica oleracea var. gemmifera"
+			},
+			{
+					"name": "Butternut Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/butternutsquash.png",
+					"sci": "Cucurbita moschata 'Butternut'"
+			},
+			{
+					"name": "Cabbage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/cabbage.png",
+					"sci": "Brassica oleracea var. capitata"
+			},
+			{
+					"name": "Calabrese",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/calabrese.png",
+					"sci": "Brassica oleracea"
+			},
+			{
+					"name": "Capers",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/capers.png",
+					"sci": "Capparis spinosa"
+			},
+			{
+					"name": "Carrots",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/carrots.png",
+					"sci": "Daucus carota"
+			},
+			{
+					"name": "Cassava",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/cassava.png",
+					"sci": "Manihot esculenta"
+			},
+			{
+					"name": "Cauliflower",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/cauliflower.png",
+					"sci": "Brassica oleracea var. botrytis"
+			},
+			{
+					"name": "Chayote Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/chayotesquash.png",
+					"sci": "Sechium edule"
+			},
+			{
+					"name": "Choy Sum",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/choysum.png",
+					"sci": "Brassica chinensis var. parachinensis"
+			},
+			{
+					"name": "Courgette",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/courgette.png",
+					"sci": "Cucurbita pepo subsp. pepo"
+			},
+			{
+					"name": "Daikon Radish",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/daikonradish.png",
+					"sci": "Raphanus sativus var. Longipinnatus"
+			},
+			{
+					"name": "Datil pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/datilpepper.png",
+					"sci": "Capsicum chinense 'Datil'"
+			},
+			{
+					"name": "Delicata Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/delicatasquash.png",
+					"sci": "Cucurbita pepo 'Delicata'"
+			},
+			{
+					"name": "Dill",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/dill.png",
+					"sci": "Anethum graveolens"
+			},
+			{
+					"name": "Moringa",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/drumstickplant.png",
+					"sci": "Moringa oleifera"
+			},
+			{
+					"name": "Kohlrabi",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kohlrabi.png",
+					"sci": "Brassica oleracea Gongylodes Group"
+			},
+			{
+					"name": "Lacinato Kale",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lacinatokale.png",
+					"sci": "Brassica oleracea var. palmifolia"
+			},
+			{
+					"name": "Pumpkin",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pumpkin.png",
+					"sci": "Cucurbita"
+			},
+			{
+					"name": "Taro",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/taro.png",
+					"sci": "Colocasia esculenta"
+			},
+			{
+					"name": "Dulse",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/dulse.png",
+					"sci": "Palmaria palmata"
+			},
+			{
+					"name": "Edamame Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/edamamebeans.png",
+					"sci": "Glycine max"
+			},
+			{
+					"name": "Elephant Foot Yam",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/elephantfootyam.png",
+					"sci": "Amorphophallus paeoniifolius"
+			},
+			{
+					"name": "Elephant Garlic",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/elephantgarlic.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Escarole",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/escarole.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Fennel",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/fennel.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Fenugreek",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/fenugreek.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Flat Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/flatbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "French Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/frenchbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "French Sorrel",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/frenchsorrel.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Curled Endive",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/curledendive.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Galangal",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/galangal.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Chickpea",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/chickpea.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Garlic",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/garlic.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Garlic Chives",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/garlicchives.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Cucumber",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/cucumber.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Ginger",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/ginger.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Green Amaranth",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/greenamaranth.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Grape Leaves",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/grapeleaves.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Green Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/greenbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Green Onions",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/greenonions.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Guar",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/guar.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Habanero",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/habanero.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Hamburg Parlsey",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/hamburgparlsey.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Hearts of Palm",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/heartsofpalm.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Heirloom Tomatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/heirloomtomatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Hispi Cabbage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/hispicabbage.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Hokkaido Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/hokkaidosquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Horseradish",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/horseradish.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Horse Gram",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/horsegram.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Hot Pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/hotpepper.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Iceberg Lettuce",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/iceberglettuce.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Ice Cream Bean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/icecreambean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Irish Moss",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/irishmoss.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Italian Red Onion",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/italianredonion.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Italian Sweet Pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/italiansweetpepper.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Ivy Gourd",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/ivygourd.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Jackfruit",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/jackfruit.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Jalapeno",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/jalapeno.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Japanese Mustard Greens",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/japanesemustardgreens.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Jerusalem Artichokes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/jerusalemartichokes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Jicama",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/jicama.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kabocha Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kabochasquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kai Lan",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kailan.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kidney Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kidneybeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Komatsuna",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/komatsuna.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kombu",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kombu.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kyona",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kyona.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kangkong",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kangkong.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kennebec Potato",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kennebecpotato.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "King Edward Potato",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kingedwardpotato.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Kurrat",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/kurrat.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lakota squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lakotasquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Land Cress",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/landcress.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Laver",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/laver.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Leaf Celery",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/leafcelery.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lebanese Cucumber",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lebanesecucumber.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Leeks",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/leeks.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lemongrass",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lemongrass.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lentil",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lentil.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lettuce",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lettuce.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lima Bean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/limabean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lollo Rosso",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lollorosso.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lotus Root",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lotusroot.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Lovage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/lovage.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Malabar Spinach",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/malabarspinach.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Maize(Corn)",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/maize.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Malanga",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/malanga.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Miatake",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/miatake.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mangetout",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mangetout.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Marrow",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/marrow.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mashua",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mashua.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Methi",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/methi.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Microgreens",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/microgreens.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mizuna",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mizuna.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Molokhia",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/molokhia.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Morels",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/morels.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Moth Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mothbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mushrooms",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mushrooms.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mustard Greens",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mustardgreens.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mooli",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mooli.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Mung Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/mungbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Napa Cabbage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/napacabbage.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Navy Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/navybeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Neeps",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/neeps.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Nettles",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/nettles.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "New Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/newpotatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "New Zealand Spinach",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/newzealandspinach.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Nori",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/nori.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Nopales",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/nopales.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Oca",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/oca.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Oil Palm",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/oilpalm.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Okra",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/okra.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Okinawan Sweet Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/okinawansweetpotatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Olive",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/olive.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Onion",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/onion.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Orach",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/orach.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Oregano",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/oregano.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pak Choi",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pakchoi.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pandan",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pandan.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Parsnip",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/parsnip.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Peanuts",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/peanuts.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Peas",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/peas.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pearl Onion",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pearlonions.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Parsley",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/parsley.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pickles",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pickles.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pignut",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pignut.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pinkbean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pinkbean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pinto Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pintobeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pitwaa",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pitwaa.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Plum Tomatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/plumtomatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Pointed Cabbage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pointedcabbage.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Prickly Pear",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/pricklypear.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/potatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Purple Sprouting Broccoli",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/purplesproutingbroccoli.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Purple Sweet Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/purplesweetpotatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Purslane",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/purslane.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Purslane",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/purslane.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Purple Asparagus",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/purpleasparagus.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Radicchio",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/radicchio.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Rakkio",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/rakkio.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Ramps",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/ramps.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Rapini",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/rapini.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Red Cabbage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/redcabbage.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Red Kuri Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/redkurisquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Rhuabarb",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/rhuabarb.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Red Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/redpotatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Red Sorrel",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/redsorrel.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Rock Samphire",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/rocksamphire.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Roma Tomatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/romatomatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Romaine Lettuce",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/romainelettuce.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Romanesco",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/romanesco.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Rosa Bianca Eggplant",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/rosabiancaeggplant.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Runner Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/runnerbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Russet Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/russetpotatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Rutabaga",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/rutabaga.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Renkon",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/renkon.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Salsify",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/salsify.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Samphire",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/samphire.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "San Maranzo Tomatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/sanmaranzotomatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Savoy Cabbage",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/savoycabbage.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Sea Beet",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/seabeet.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Sea Kale",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/seakale.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Serrano Pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/serranopepper.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Scallions (Spring Onions)",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/scallions.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Shallots",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/shallots.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Shiitake Mushrooms",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/shiitakemushrooms.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Silverbeet",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/silverbeet.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Snow Peas",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/snowpeas.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Sorrel",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/sorrel.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Soya Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/soyabeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Spaghetti Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/spaghettisquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Spring Greens",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/springgreens.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Spinach",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/spinach.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Sugar Snap Peas",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/sugarsnappeas.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Summer Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/summersquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Sweet Potato",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/sweetpotato.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Swede",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/swede.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Swiss Chard",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/swisschard.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tabasco Pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tabascopepper.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tamarillo",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tamarillo.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tamarind",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tamarind.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tarwi Bean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tarwibean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tatsoi",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tatsoi.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Thai Basil",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/thaibasil.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Thai Chili Pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/thaichilipepper.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Thai Eggplant",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/thaieggplant.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tigernut",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tigernut.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tomatillo",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tomatillo.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tomato",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tomato.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Topinambur",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/topinambur.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Trinidad Moruga Scorpion Pepper",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/trinidadmorugascorpionpepper.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Turban Squash",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/turbansquash.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Turmeric",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/turmeric.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Tuscan Kale",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/tuscankale.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Ube",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/ube.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Ulluco",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/ulluco.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Upland Cress",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/uplandcress.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Vanilla",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/vanilla.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Velvet Bean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/velvetbean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Vidalia Onion",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/vidaliaonion.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Vivaldi Potatoes",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/vivaldipotatoes.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Wasabi",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/wasabi.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Water Chestnut",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/waterchestnut.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Water Caltrop",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/watercaltrop.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Watercress",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/watercress.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Wax Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/waxbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Welsh Onions",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/welshonions.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "White Radish",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/whiteradish.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Wild Celery",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/wildcelery.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Wild Garlic",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/wildgarlic.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Winged Beans",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/wingedbeans.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Wheatgrass",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/wheatgrass.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "White Asparagus",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/whiteasparagus.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yacon",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yacon.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yam",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yam.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yam Bean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yambean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yao Choy",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yaochoy.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yardlong Bean",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yardlongbean.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yucca Root",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yuccaroot.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Yukon Gold Potato",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/yukongoldpotato.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Zebra Eggplant",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/zebraeggplant.png",
+					"sci": "Solanum tuberosum"
+			},
+			{
+					"name": "Zizania Latifolia ",
+					"img": "https://raw.githubusercontent.com/itscodewithdg/crops/main/zizanialatifolia.png",
+					"sci": "Solanum tuberosum"
+			}
+		]
+	]
+}
